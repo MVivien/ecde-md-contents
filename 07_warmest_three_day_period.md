@@ -1,3 +1,5 @@
+<br />**Context**
+
 The Warmest Three-Day Period index is relevant to sectors prone to heat stress such as human health and agriculture.
 
 This index is based on daily mean temperature and is part of the Extreme Heat Hazard type of the Heat and Cold category of the classification.

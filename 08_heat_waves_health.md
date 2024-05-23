@@ -1,3 +1,5 @@
+<br />**Context**
+
 The Apparent Temperature Heatwave Days index is relevant to human health. This Index is part of the Extreme Heat Hazard type of the Heat and Cold category of the classification.
 
 The index gives the number of days with prolonged periods of simultaneous extreme humidity and heat conditions. The apparent temperature is a measure of discomfort due the combination of heat with high humidity based on physiological studies on evaporative skin cooling.

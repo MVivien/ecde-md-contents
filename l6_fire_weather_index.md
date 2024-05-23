@@ -1,3 +1,5 @@
+<br />**Context**
+
 The Fire Weather Index (FWI) is relevant to forestry, local planning and disaster risk management. This Index is part of the Drought Hazard type of the Wet and Dry category of the classification.
 
 A higher index value indicates better weather conditions for wildfires and thus a higher risk.

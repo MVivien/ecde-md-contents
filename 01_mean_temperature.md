@@ -1,3 +1,5 @@
+<br />**Context**
+
 Temperature is an essential climate variable making the Mean Temperature a fundamental index for following climate variability and change. This Index is the main one in the Mean temperature Hazard type of the Heat and Cold category of the classification.
 
 A higher Index value indicates a warmer climate. Change (i.e difference relative to an average over a 30-year reference period) in annual mean temperature is often used as a headline index in regional climate change assessments whereas changes in seasonal means are relevant for seasonal changes evaluation and sectoral applications.

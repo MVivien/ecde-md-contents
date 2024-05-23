@@ -1,3 +1,5 @@
+<br />**Context**
+
 The Relative Sea Level Rise index is relevant to coastal management. This Index is part of the relative Sea Level type of the Coastal category of the classification. A higher/lower index value indicates higher/lower Relative Sea Level Rise and thus higher/lower risks.
 
 <br />**Definition**

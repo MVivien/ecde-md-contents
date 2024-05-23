@@ -1,3 +1,5 @@
+<br />**Context**
+
 The Climatological Heatwave Days index is relevant to human health, agriculture, energy, wildfire and infrastructure. This Index is part of the Extreme Heat Hazard type of the Heat and Cold category of the classification.
 
 The index counts the number of days in a year within prolonged periods of unusually high temperatures.

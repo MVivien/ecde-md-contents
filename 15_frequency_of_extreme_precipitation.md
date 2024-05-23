@@ -1,3 +1,5 @@
+<br />**Context**
+
 The Extreme Precipitation Days index is relevant to agriculture, water management, transport and the urban sector. This Index is based on daily precipitation and is part of the Extreme Precipitation Hazard type of the Wet and Dry category of the classification.
 
 The index gives the number of days in a year with daily total precipitation exceeding the 95th percentile threshold of rainy days of a reference period, here 1981-2010.

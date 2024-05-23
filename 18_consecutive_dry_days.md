@@ -1,3 +1,5 @@
+<br />**Context**
+
 The Consecutive Dry Days index is relevant to biodiversity, agriculture, forest and water management. This index is based on daily total precipitation and is part of the Aridity Hazard type of the Wet and Dry category of the classification.
 A higher/low value indicates more/less Consecutive Dry Days and thus more/less water stress on the natural environment caused by lack of precipitation.
 

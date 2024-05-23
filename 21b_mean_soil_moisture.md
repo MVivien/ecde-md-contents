@@ -1,3 +1,5 @@
+<br />**Context**
+
 The Mean Soil Moisture index is relevant to forestry, water management and, to a lesser degree, in agriculture.
 
 This Index is based on soil moisture content and is part of the Drought Hazard type of the Wet and Dry category of the classification.

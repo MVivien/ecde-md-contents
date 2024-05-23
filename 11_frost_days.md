@@ -1,3 +1,5 @@
+<br />**Context**
+
 The Frost Days Index is relevant to agriculture. This Index is part of the Cold spell and frost Hazard type of the Heat and Cold category of the classification.
 
 The index measures the number of days with frost conditions. It is mainly used in agriculture to account for frost damages, but it can be relevant to other sectors.

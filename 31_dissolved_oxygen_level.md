@@ -1,3 +1,5 @@
+<br />**Context**
+
 The Dissolved Oxygen Level index is relevant to marine ecosystems and fisheries. This Index is part of the Biochemical ocean properties type of the Oceanic category of the classification.
 A higher/lower index value indicates higher/lower oxygen content and thus lower/higher risk. Oxygen concentrations above 190 mmol m³ are considered to be sufficient to support healthy marine communities with minimal problems, while oxygen concentrations below 62.5 mmol m³ are considered to be a source of serious concern.
 

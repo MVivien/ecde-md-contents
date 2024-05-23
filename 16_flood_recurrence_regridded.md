@@ -1,3 +1,5 @@
+<br />**Context**
+
 The River Discharge index is relevant to hydrological applications, transport, and disaster risk management.
 This Index is based on daily river discharge values and is part of the River flood type of the Wet and Dry category of the classification.
 A higher/lower value indicates reduced/increased river discharge and thus lower/higher River flood risk.

@@ -1,3 +1,5 @@
+<br />**Context**
+
 The Meteorological Drought Magnitude index is relevant to a wide range of water-related sectors, especially agriculture, forestry, hydrology and water management. This Index is based on total precipitation and is part of the Drought Hazard type of the Wet and Dry category of the classification.
 
 The index gives the cumulative severity of drought events in a year that experience drought conditions as determined by anomalously low precipitation values based on the 3-month Standardised Precipitation Index (SPI-3). The magnitude of the event is defined as the sum of SPI-3 absolute values in the months of the drought episodes. SPI-3 accounts for the deficit (or surplus) of precipitation accumulated over 3 months with respect to the corresponding reference value from a 30-year baseline historical period, here 1981-2010.

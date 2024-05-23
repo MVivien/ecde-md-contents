@@ -1,3 +1,5 @@
+<br />**Context**
+
 The Heating Degree Days index is relevant to energy. This Index is part of the Mean temperature Hazard type of the Heat and Cold category of the classification.
 
 The index measures heat deficit by cumulating daily degrees below a temperature threshold. It is a proxy for the energy needed to heat a building. There are several implementations of these indices that use different underlying data (e.g. daily mean vs. daily minimum and maximum temperature), threshold temperatures, and possible seasonal restrictions (e.g. only predefined heating season). The definition used here uses a combination of daily mean, maximum and minimum temperature.

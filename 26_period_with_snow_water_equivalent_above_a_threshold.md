@@ -1,3 +1,5 @@
+<br />**Context**
+
 The High Snow Days index is relevant to the tourism and water sectors. This Index is part of the Snow and Land Ice Hazard type of the Snow and Ice category of the classification.
 A higher/lower index value indicates more/less days with high snow amounts and thus higher/lower accumulation of snow from snowfall precipitation.
 

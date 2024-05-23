@@ -1,3 +1,5 @@
+<br />**Context**
+
 The High Fire Danger Days index is relevant to Forestry but can also indirectly affect others such as tourism, transport and energy. This Index is based on the Fire Weather Index (FWI) and is part of the Wildfire type of the Wet and Dry category of the classification.
 The index gives the number of days in a given period presenting favourable meteorological conditions to triggering a wildfire.
 The higher the Index, the higher the risk of wildfire.

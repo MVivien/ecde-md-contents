@@ -1,3 +1,5 @@
+<br />**Context**
+
 The Growing Degree Days index is relevant to agriculture. This Index is part of the Mean temperature Hazard type of the Heat and Cold category of the classification.
 The index measures heat accumulation by cumulating daily degrees above a temperature threshold. It provides information about the growing season and can be used to evaluate crop and pest development rates such as the date that a crop reaches maturity. In some cases, an upper temperature limit is applied as well. National or regional applications may use different temperature thresholds to account for local conditions and crop types.
 A higher value means better conditions for crop development.

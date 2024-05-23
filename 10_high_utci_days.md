@@ -1,3 +1,5 @@
+<br />**Context**
+
 The Universal Thermal Climate Index (UTCI) days index is relevant to human health. This Index is part of the Extreme Heat Hazard type of the Heat and Cold category of the classification.
 
 The index gives the number of days with either strong, very strong and extreme heat stress.

@@ -1,3 +1,5 @@
+<br />**Context**
+
 The Extreme Precipitation Total index is relevant to agriculture, water management, transport and the urban sector. This Index is based on daily precipitation and is part of the Extreme Precipitation Hazard type of the Wet and Dry category of the classification.
 
 The index gives the total precipitation on all days with heavy precipitation, defined as exceeding the 95th percentile of daily precipitation over the reference period.

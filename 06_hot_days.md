@@ -1,3 +1,5 @@
+<br />**Context**
+
 The Hot Days index is relevant to human health. This index is based on daily maximum temperature and is part of the Extreme Heat Hazard type of the Heat and Cold category of the classification.
 
 High values of maximum temperature cause physiological discomfort during periods of high temperatures by causing heat stress on body temperature.

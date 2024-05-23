@@ -1,3 +1,5 @@
+<br />**Context**
+
 The Maximum Temperature Index is relevant to human health, agriculture and biodiversity. It indicates the temperature of the coldest day of a period, typically of the year, but also over a particular season or month. This Index is part of the Cold spell and frost Hazard type of the Heat and Cold category of the classification.
 
 A higher value indicates higher temperatures and thus more heat stress on people and the environment.

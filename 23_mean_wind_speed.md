@@ -1,3 +1,5 @@
+<br />**Context**
+
 The Mean Wind Speed index is mainly relevant to the energy sector. This Index is based on daily 10m wind speed and is part of the Severe Storm hazard type of the Wind category of the classification.
 
 The index gives the mean daily 10m wind speed of a reference period, here 1981-2010.

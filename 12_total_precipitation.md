@@ -1,3 +1,5 @@
+<br />**Context**
+
 Precipitation is an essential climate variable making the Total Precipitation a fundamental index for following climate variability and change. This Index is the only one in the Total precipitation Hazard type of the Wet and Dry category of the classification.
 
 A higher/lower Index value indicates a wetter/drier climate. Change (i.e difference relative to an average over a 30-year reference period) in Total precipitation is often used as a headline index in regional climate change assessments whereas changes in seasonal means are relevant for seasonal changes evaluation and sectoral applications.

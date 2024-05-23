@@ -1,3 +1,5 @@
+<br />**Context**
+
 The Meteorological Drought Duration index is relevant to a wide range of water-related sectors, especially agriculture, forestry, hydrology and water management. This Index is based on daily precipitation and is part of the Drought Hazard type of the Wet and Dry category of the classification.
 
 The index gives the total number of months in a year that experience drought conditions as determined by anomalously low precipitation values based on the 3-month Standardised Precipitation Index (SPI-3). SPI-3 accounts for the deficit (or surplus) of precipitation accumulated over 3 months with respect to the corresponding reference value from a 30-year baseline historical period, here 1981-2010.

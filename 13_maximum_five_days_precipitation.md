@@ -1,3 +1,5 @@
+<br />**Context**
+
 The Maximum Consecutive Five-Day Precipitation index is relevant to agriculture, water management, transport and the urban sector. This Index is based on daily precipitation and is part of the Extreme Precipitation Hazard type of the Wet and Dry category of the classification.
 
 The index gives the maximum precipitation amount that occurred over 5 consecutive days in a given period.

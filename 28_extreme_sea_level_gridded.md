@@ -1,3 +1,5 @@
+<br />**Context**
+
 The Extreme Sea Level index is relevant to coastal management. This Index is part of the Coastal flooding of the Coastal category of the classification.
 A higher/lower index value indicates higher/lower Extreme Sea Level and thus higher/lower risks.
 

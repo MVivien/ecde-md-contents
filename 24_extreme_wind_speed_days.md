@@ -1,3 +1,5 @@
+<br />**Context**
+
 The Extreme Wind Days index is relevant to forestry, infrastructure, buildings, energy and transport. This Index is based on daily wind speed and is part of the Severe Storm hazard type of the Wind category of the classification.
 
 The index gives the number of days in a year with daily wind speed exceeding the 98th percentile threshold of a reference period, here 1981-2010.

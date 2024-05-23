@@ -1,3 +1,5 @@
+<br />**Context**
+
 The Aridity Actual index is relevant to biodiversity, agriculture, forest and water management.
 
 This Index is based on daily precipitation and evapotranspiration and is part of the Aridity Hazard type of the Wet and Dry category of the classification.
