@@ -18,4 +18,4 @@ Further information about this application can be found in the [Product User Gui
 Related information also be found in other sections of the EEA site:
 
 - The Index based interactive EEA report: Heat and cold - mean air temperature ([link](https://www.eea.europa.eu/publications/europes-changing-climate-hazards-1/heat-and-cold/heat-and-cold-2014-mean)).
-- The EEA Indicators: Global and European temperatures ([link](https://www.eea.europa.eu/ims/global-and-european-temperatures)),
+- The EEA Indicators: Global and European temperatures ([link](https://www.eea.europa.eu/ims/global-and-european-temperatures))
