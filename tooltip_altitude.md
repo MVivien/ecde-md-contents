@@ -1,1 +1,1 @@
-Tooltip generic text
+The elevation at which the index is calculated

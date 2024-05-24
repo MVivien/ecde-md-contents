@@ -1,1 +1,1 @@
-Tooltip generic text
+Ocean or seas surrounding the European continent

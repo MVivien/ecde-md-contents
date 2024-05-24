@@ -1,1 +1,1 @@
-Tooltip generic text
+The hydrological model for which the data is displayed

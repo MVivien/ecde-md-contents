@@ -1,1 +1,1 @@
-Tooltip generic text
+NUTS is a Eurostat hierarchical system for dividing the territory of the EU and the UK, Transnational regions are used by the EEA, and Europe zones are the number of countries considered for the European domain (27 EU countries, 32 EEA member countries and 38 EEA member and cooperating countries)
