@@ -1,0 +1,1 @@
+Tooltip generic text
