@@ -10,7 +10,7 @@ The cumulative sum of daily degrees above a daily mean temperature of 5°C (°C 
 
 <br />**Data Sources**
 
-The data was assembled on behalf of the Copernicus Climate Change Service (C3S) based on climate projections hosted on the C3S Climate Data Store (CDS). The Index is calculated from a set of nine bias-corrected multi-model simulations from the EURO-CORDEX experiment. These simulations have a spatial resolution of 0.25° x 0.25°, a 3-hourly output, and cover scenarios RCP4.5 and RCP8.5. More information about the dataset can be found in the corresponding [CDS documentation resources](https://cds.climate.copernicus.eu/cdsapp#!/dataset/sis-energy-derived-projections).
+The data was assembled on behalf of the Copernicus Climate Change Service (C3S) based on climate projections hosted on the C3S Climate Data Store (CDS). The Index is calculated from the ERA5 reanalysis and a set of nine bias-corrected multi-model simulations from the EURO-CORDEX experiment. These simulations have a spatial resolution of 0.25° x 0.25°, a 3-hourly output, and cover scenarios RCP4.5 and RCP8.5. More information about the dataset can be found in the corresponding [CDS documentation resources](https://cds.climate.copernicus.eu/cdsapp#!/dataset/sis-energy-derived-projections).
 
 <br />**Supporting Information**
 

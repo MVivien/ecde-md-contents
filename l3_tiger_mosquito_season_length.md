@@ -11,7 +11,7 @@ The Tiger mosquito's climatic suitability seasonal presence is determined by tem
 
 <br />**Data Sources**
 
-The data was assembled on behalf of the Copernicus Climate Change Service (C3S) based on climate projections hosted on the C3S Climate Data Store (CDS). The Index is calculated from a set of eight bias-corrected multi-model simulations from the EURO-CORDEX experiment. These simulations have a spatial resolution of 0.11° x 0.11°, a daily output, and cover scenarios RCP4.5 and RCP8.5. The data covers the period 1971 to 2099 and statistics are averaged for 30 years in overlapping time periods of 10 years apart. Finally, the time series are averaged for the model ensemble.
+The data was assembled on behalf of the Copernicus Climate Change Service (C3S) based on climate projections hosted on the C3S Climate Data Store (CDS). The Index is calculated from the ERA5 reanalysis and a set of eight bias-corrected multi-model simulations from the EURO-CORDEX experiment. These simulations have a spatial resolution of 0.11° x 0.11°, a daily output, and cover scenarios RCP4.5 and RCP8.5. The data covers the period 1971 to 2099 and statistics are averaged for 30 years in overlapping time periods of 10 years apart. Finally, the time series are averaged for the model ensemble.
 More information about the dataset can be found in the corresponding [CDS documentation resources](https://cds.climate.copernicus.eu/cdsapp#!/dataset/sis-health-vector).
 
 <br />**Supporting Information**
