@@ -20,7 +20,7 @@ More information about the dataset can be found in the corresponding [CDS docume
 
 <br />**Supporting Information**
 
-Further information about this application can be found in the [Product User Guide (PUG)](https://datastore.copernicus-climate.eu/documents/ecde/L4-ecde-app-tiger-mosquito-suitability-v1.0.pdf) of the application in the documentation resources of the CDS.
+Further information about this application can be found in the [ECDE application User Guide](https://confluence.ecmwf.int/display/ECDE/1.+Interactive+European+Climate+Data+Explorer%3A+User+Guide) and the [Data and datasets underpining the ECDE](https://confluence.ecmwf.int/display/ECDE/2.+ECDE+indicators+and+input+datasets).
 Related information can also be found on other sections of the EEA site:
 
 - Vector-borne diseases and climate change: a European perspective ([link](https://climate-adapt.eea.europa.eu/en/metadata/publications/vector-borne-diseases-and-climate-change-a-european-perspective)).

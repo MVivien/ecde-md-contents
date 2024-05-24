@@ -14,6 +14,6 @@ The observed and simulated index data are from the Mountain tourism meteorologic
 
 <br />**Supporting Information**
 
-Further information about this application can be found in the [Product User Guide (PUG)](https://datastore.copernicus-climate.eu/documents/ecde/26-ecde-app-high-snow-days-v1.0.pdf) of the application in the documentation resources of the CDS.
+Further information about this application can be found in the [ECDE application User Guide](https://confluence.ecmwf.int/display/ECDE/1.+Interactive+European+Climate+Data+Explorer%3A+User+Guide) and the [Data and datasets underpining the ECDE](https://confluence.ecmwf.int/display/ECDE/2.+ECDE+indicators+and+input+datasets).
 Related information can also be found on other sections of the EEA site:
 The Index based interactive EEA report: Snow and Ice - Snow, glaciers and ice sheets ([link](https://www.eea.europa.eu/publications/europes-changing-climate-hazards-1/snow-and-ice)).
