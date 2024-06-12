@@ -16,6 +16,6 @@ More information about the dataset can be found in the corresponding [CDS docume
 
 <br />**Supporting Information**
 
-Further information about this application can be found in the [ECDE application User Guide](https://confluence.ecmwf.int/display/ECDE/1.+Interactive+European+Climate+Data+Explorer%3A+User+Guide) and the [Data and datasets underpining the ECDE](https://confluence.ecmwf.int/display/ECDE/2.+ECDE+indicators+and+input+datasets).
+Further information about this application can be found in the [ECDE application User Guide](https://confluence.ecmwf.int/display/ECDE/1.+ECDE+Indicators+visualisation+application%3A+User+Guide) and the [Data and datasets underpining the ECDE](https://confluence.ecmwf.int/display/ECDE/2.+ECDE+indicators+and+input+datasets).
 Related information can also be found in other sections of the EEA site:
 EEA indicators: European sea surface temperature ([link](https://www.eea.europa.eu/ims/european-sea-surface-temperature)).

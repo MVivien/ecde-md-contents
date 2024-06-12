@@ -13,6 +13,6 @@ The simulated index data are from the [Marine biogeochemistry data for the North
 
 <br />**Supporting Information**
 
-Further information about this application can be found in the [ECDE application User Guide](https://confluence.ecmwf.int/display/ECDE/1.+Interactive+European+Climate+Data+Explorer%3A+User+Guide) and the [Data and datasets underpining the ECDE](https://confluence.ecmwf.int/display/ECDE/2.+ECDE+indicators+and+input+datasets).
+Further information about this application can be found in the [ECDE application User Guide](https://confluence.ecmwf.int/display/ECDE/1.+ECDE+Indicators+visualisation+application%3A+User+Guide) and the [Data and datasets underpining the ECDE](https://confluence.ecmwf.int/display/ECDE/2.+ECDE+indicators+and+input+datasets).
 Related information can also be found on other sections of the EEA site:
 The Index based interactive EEA report: Open ocean — ocean chemistry: dissolved oxygen and ocean acidity ([link](https://www.eea.europa.eu/publications/europes-changing-climate-hazards-1/open-ocean/open-ocean-ocean-chemistry)).
