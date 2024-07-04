@@ -1,0 +1,1 @@
+The Baltic Sea Region corresponds to the oringinal "Interreg VI B 2021-2027" definition published in 2021. In the meanwhile this definition has been updated. The background data is in the process of beeing updated and will be made available shortly.
